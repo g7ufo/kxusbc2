@@ -1,5 +1,7 @@
 # KXUSBC2 Programmer
 
+> 📖 This documentation is also available on the KXUSBC2 documentation site: **<https://kxusbc2.github.io/technical_notes/programmer/>**
+
 This is a browser-based programming tool for the ATtiny3226 microcontroller on the KXUSBC2. It allows updating the firmware, and changing the EEPROM configuration.
 
 ![Screenshot](docs/screenshots/programmer-ui.png)

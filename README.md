@@ -1,5 +1,7 @@
 # KXUSBC2 – Internal USB-C charger for the Elecraft KX2
 
+> 📖 This documentation is also available on the KXUSBC2 documentation site: **<https://kxusbc2.github.io/>**
+
 ## Introduction
 
 Have you ever forgotten to bring your KX2 charger on a trip, accidentally torn the speaker wires after countless battery removals, or found yourself with a dead phone battery on a summit while the KX2 still had plenty of power? I’ve managed all three. Each time, I wished the KX2 simply had a USB-C port — no more removing the battery, no special charger to pack, and the ability to top up a phone.
@@ -57,7 +59,7 @@ For more information and a PDF schematic, see the [hardware notes](hardware/READ
 
 ## Installation
 
-Installing the KXUSBC2 is quite simple, and similar to the procedure for the KXIBC2. See the [User Guide](USER_GUIDE.md) for details.
+Installing the KXUSBC2 is quite simple, and similar to the procedure for the KXIBC2. See the [Installation guide](https://kxusbc2.github.io/installation/) on the documentation site (or the [User Guide](USER_GUIDE.md) in this repository) for details.
 
 
 ## Where to buy
@@ -77,12 +79,12 @@ I am not selling the KXUSBC2 myself, so please do not send me emails with purcha
 
 ## Firmware updates and configuration
 
-There is a web-based programmer at https://manuelkasper.github.io/kxusbc2/programmer/ that can flash firmware updates and allows easy UI-based configuration of the various settings (current limits etc.). All that is required is a simple UPDI adapter (essentially a USB-to-Serial TTL level adapter) and a browser that supports the Web Serial API.
+There is a web-based programmer at https://manuelkasper.github.io/kxusbc2/programmer/ that can flash firmware updates and allows easy UI-based configuration of the various settings (current limits etc.). All that is required is a simple UPDI adapter (essentially a USB-to-Serial TTL level adapter) and a browser that supports the Web Serial API. See the [programmer notes](https://kxusbc2.github.io/technical_notes/programmer/) and the [config settings](https://kxusbc2.github.io/user_guide/config/) on the documentation site for details.
 
 
 ## Development
 
-The schematic/PCB was designed with KiCad, and the firmware was written to be compiled with AVR-GCC. See the [hardware notes](hardware/README.md) and [firmware notes](firmware/README.md) for details.
+The schematic/PCB was designed with KiCad, and the firmware was written to be compiled with AVR-GCC. See the [technical notes](https://kxusbc2.github.io/technical_notes/) on the documentation site, or the [hardware notes](hardware/README.md) and [firmware notes](firmware/README.md) in this repository, for details.
 
 
 ## Current state of the project

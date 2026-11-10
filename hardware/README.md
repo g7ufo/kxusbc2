@@ -1,5 +1,7 @@
 # Hardware notes
 
+> 📖 This documentation is also available on the KXUSBC2 documentation site: **<https://kxusbc2.github.io/technical_notes/hardware/>**
+
 ## Schematic
 
 Designed with KiCad.

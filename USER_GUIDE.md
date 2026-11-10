@@ -1,6 +1,10 @@
 # KXUSBC2 User Guide
 
+> 📖 This guide is also available on the KXUSBC2 documentation site, split into [Hardware Assembly](https://kxusbc2.github.io/technical_notes/assembly/), [Installation](https://kxusbc2.github.io/installation/) and the [User Guide](https://kxusbc2.github.io/user_guide/).
+
 ## Part 1: Hardware Assembly
+
+*Also on the documentation site: [Hardware Assembly](https://kxusbc2.github.io/technical_notes/assembly/)*
 
 ### ➡️ If you have purchased a ready-made KXUSBC2 kit, this part will already have been completed for you, and you can skip to [Part 2](#part-2-installation-guide).
 
@@ -70,6 +74,8 @@ It is recommended to place a small dab of superglue on the PCB to secure the LED
 
 ## Part 2: Installation Guide
 
+*Also on the documentation site: [Installation](https://kxusbc2.github.io/installation/)*
+
 ### Prerequisites
 
 - Elecraft KX2 transceiver
@@ -132,6 +138,8 @@ A 10k NTC thermistor can optionally be connected between the marked pads (T and 
 ---
 
 ## Part 3: User Guide
+
+*Also on the documentation site: [User Guide](https://kxusbc2.github.io/user_guide/) ([Charging & OTG](https://kxusbc2.github.io/user_guide/charging/), [Config Button & Settings](https://kxusbc2.github.io/user_guide/config/), [Troubleshooting](https://kxusbc2.github.io/user_guide/troubleshooting/))*
 
 ### Basic Operation
 

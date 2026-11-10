@@ -1,5 +1,7 @@
 # LED Diffuser
 
+> 📖 This documentation is also available on the KXUSBC2 documentation site: **<https://kxusbc2.github.io/technical_notes/assembly/#optional-adding-the-3d-printed-led-diffuser>**
+
 This helps to diffuse the light from the LED, making it more even and reducing glare. It also helps to protect the LED from damage and the cables from strain.
 
 <img src="../photos/led_diffuser_fitted.gif" alt="The LED Diffuser fitted to the KX2" width="500">

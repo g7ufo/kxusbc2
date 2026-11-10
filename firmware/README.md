@@ -1,5 +1,7 @@
 # Firmware notes
 
+> 📖 This documentation is also available on the KXUSBC2 documentation site: **<https://kxusbc2.github.io/technical_notes/firmware/>**
+
 The firmware is designed to be built with AVR-GCC.
 
 Prerequisites:
